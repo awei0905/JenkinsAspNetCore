@@ -16,7 +16,7 @@ namespace jenkinsnetcore
             CreateHostBuilder(args).Build().Run();
         }
 
-        // TEST First 
+        // testg First 
         // 2nd.
         // 3rd.
         public static IHostBuilder CreateHostBuilder(string[] args) =>
